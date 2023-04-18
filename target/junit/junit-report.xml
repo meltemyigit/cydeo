@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="5.869" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="US-001 Login Function without any credential" name="Login as a Driver" time="5.7">
+<system-out><![CDATA[
+Given User is on the login page.............................................passed
+When The user logs in as a driver...........................................passed
+Then The user is on the Quick Launchpad page................................passed
+]]></system-out>
+</testcase>
+</testsuite>
